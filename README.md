@@ -61,4 +61,4 @@ Possible future improvements include:
 - Adding sorting or filtering options for the watchlist based on release date or other criteria.
 
 ## Video Demonstration
-You can check out the project demo video on my LinkedIn profile for a detailed walkthrough.
+You can check out the project demo video on my LinkedIn profile: https://www.linkedin.com/in/deepak-patil-23772b252
